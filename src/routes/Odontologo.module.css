@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+} 
+ 
+ .card-detalle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(185, 234, 245);
+    width: 40rem;
+}
+
+.imagen-detalle{
+    width: 20rem;
+    height: 20rem;
+    padding: 3rem;
+}
+
+.detalle-personal{
+    padding: 2rem;
+}
+
+.boton-detalle{
+    
+    max-width: 20rem;
+}

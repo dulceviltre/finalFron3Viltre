@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgb(176, 183, 189);
+    display:flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.footer img{
+    max-width: 40rem;
+    max-height: 5rem;
+}
